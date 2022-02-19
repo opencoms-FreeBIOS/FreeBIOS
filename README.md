@@ -6,4 +6,4 @@ you can boot from OS.lua "MineOS Boot file" and init.lua "OpenOS Bott file"
 
 ## how to install EFI
 
-	pastebin run KCKNwu4t
+	pastebin run 7tXAA5YN
