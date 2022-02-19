@@ -7,4 +7,4 @@ you can boot from OS.lua "MineOS Boot file" and init.lua "OpenOS Boot file"
 ## how to install
 Run command
 
-	pastebin run 7tXAA5YN
+	pastebin run VERxZ3p4
